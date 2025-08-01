@@ -30,8 +30,7 @@ This project explores a dataset of over 86,000 hotel bookings to identify patter
 ## 🚀 How to Run
 
 - View the notebook directly in GitHub: [`Hotel_Bookings.ipynb`](./Hotel_Bookings.ipynb)
-- Or open it in Google Colab to run it interactively:  
-  [![Open In Colab](https://colab.research.google.com/drive/1dP5EWc7Bt-bFV1ESSgzswU5m8QdBLyxE?usp=sharing)
+- Or open it in Google Colab to run it interactively: [Open In Colab](https://colab.research.google.com/drive/1dP5EWc7Bt-bFV1ESSgzswU5m8QdBLyxE?usp=sharing)
 
 ## 📊 Dashboard
 
