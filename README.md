@@ -23,12 +23,12 @@ This project explores a dataset of over 86,000 hotel bookings to identify patter
 
 ## 📎 Files
 
-- `hotel_booking_analysis.ipynb`: main notebook with all cleaning steps, plots, and insights.
-- (Optional) `cleaned_data.csv`: processed dataset if included.
+- `Hotel_Bookings.ipynb`: main notebook with all cleaning steps, plots, and insights.
+-  `Cleaned_hotel_bookings.csv`: processed dataset used for interactive dashboard generation.
 
 ## 🙋‍♂️ About Me
 
-I'm a health sciences researcher transitioning into data science, with strong skills in data analysis, visualization, and scientific communication. You can see more of my work on my [GitHub profile](https://github.com/tu-usuario).
+I'm a health sciences researcher transitioning into data science, with strong skills in data analysis, visualization, and scientific communication. You can see more of my work on my [GitHub profile](https://github.com/santib31).
 
 ---
 
