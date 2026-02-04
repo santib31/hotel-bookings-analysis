@@ -32,7 +32,7 @@ This project explores a dataset of over 86,000 hotel bookings to identify patter
 - View the notebook directly in GitHub: [`Hotel_Bookings.ipynb`](./Hotel_Bookings.ipynb)
 - Or open it in Google Colab to run it interactively: [Open In Colab](https://colab.research.google.com/drive/1dP5EWc7Bt-bFV1ESSgzswU5m8QdBLyxE?usp=sharing)
 
-## 📊 Dashboard
+## Dashboard
 
 Interactive dashboard available at:  
 [Hotel Booking Demand Dashboard](https://lookerstudio.google.com/reporting/9f7b784b-2e1f-4208-9f75-44475503c1fb)
